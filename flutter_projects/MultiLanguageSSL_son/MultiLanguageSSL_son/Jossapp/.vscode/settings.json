@@ -1,0 +1,16 @@
+{
+    "editor.rulers": [
+     
+     {
+        "column": 120,
+        "color": "#ff00FF"
+      },
+      130,  // <- a ruler in the default color or as customized (with "editorRuler.foreground") at column 100
+      {
+        "column": 140,
+        "color": "#ff0000"
+      },
+    
+    ]
+    
+}

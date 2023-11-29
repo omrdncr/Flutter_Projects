@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942045562037",
+    "project_id": "flutter-firebase-dersler-ac884",
+    "storage_bucket": "flutter-firebase-dersler-ac884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942045562037:android:1078e97ee3f0cb611d6afc",
+        "android_client_info": {
+          "package_name": "com.mepsanlearn.flutter_firebase_dersleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942045562037-a4r84j73qmgmgu2n5b45udii6umce918.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_oRWNHzpHJlJCrL1fW61PVUKQaIuxfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942045562037-a4r84j73qmgmgu2n5b45udii6umce918.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

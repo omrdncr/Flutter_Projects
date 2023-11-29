@@ -1,0 +1,26 @@
+[
+  {
+      "sehiradi" : "Konya",
+      "ulke": "Turkiye",
+      "belediye": "ak",
+      "bolge" : [
+          {
+              "bolgeadi":"İç Anadolu",
+              "bolgekodu": 2,
+              "bolgekonumu" : "orta"
+          }
+      ]
+  },
+  {
+      "sehiradi" : "Istanbul",
+      "ulke": "Turkiye",
+      "belediye": "ch",
+      "bolge" : [
+          {
+              "bolgeadi":"marmara",
+              "bolgekodu": 1,
+              "bolgekonumu" : "sol üst"
+          }
+      ]
+  }
+]

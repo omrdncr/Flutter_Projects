@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    
+    "configurations": [
+        {
+            "name": "flutter_temel_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "flutter_temel_widget (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_temel_widget (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

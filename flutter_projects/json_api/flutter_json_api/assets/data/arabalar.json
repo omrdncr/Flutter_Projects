@@ -1,0 +1,410 @@
+[
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "opel",
+    "mensei": "almanya",
+    "kurulus yili": 1920,
+    "model" : [
+        {
+            "model_adi":"astra serisi",
+            "fiyat": 15000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"mokka serisi",
+            "fiyat": 17000,
+            "benzinli" : false
+        }
+    ]
+},
+{
+    "araba_adi" : "mercedes",
+    "mensei": "almanya",
+    "kurulus yili": 1910,
+    "model" : [
+        {
+            "model_adi":"a serisi",
+            "fiyat": 20000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"c serisi",
+            "fiyat": 22000,
+            "benzinli" : true
+        }
+    ]
+},
+{
+    "araba_adi" : "honda",
+    "mensei": "japonya",
+    "kurulus yili": 1940,
+    "model" : [
+        {
+            "model_adi":"civic",
+            "fiyat": 11000,
+            "benzinli" : true
+        },
+        {
+            "model_adi":"nsx",
+            "fiyat": 40000,
+            "benzinli" : true
+        }
+    ]
+}
+]
